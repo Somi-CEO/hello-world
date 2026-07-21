@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://somi.ceo">
-  <img src="./profile/assets/somi-github-hero.png" alt="Somi — Your AI CEO" width="100%" />
+  <img src="./assets/somi-github-hero.png" alt="Somi — Your AI CEO" width="100%" />
 </a>
 
 *The intelligent operator that runs the busywork of your business — so you can run the vision.*
